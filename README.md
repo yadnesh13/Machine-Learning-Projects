@@ -1,4 +1,4 @@
-Machine Learning Playground
+#Machine Learning Playground
 Welcome to the Machine Learning Playground! This repository is a collection of small machine learning projects that serve as a playground for exploring various concepts and techniques in the field of machine learning. Whether you are a beginner looking to dive into machine learning or an experienced practitioner wanting to experiment with new ideas, this repository is a great place to start.
 
 Table of Contents
