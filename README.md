@@ -7,8 +7,9 @@ Project 1: Linear Regression
 Project 2: Image Classification with CNN
 Project 3: Sentiment Analysis with LSTM
 Adding Your Own Projects
-Contributing
-License
+Contributing.
+
+
 Project 1: Handwritten Digits Recognition using MNIST Dataset 
 Description: A convolutional nueral network(CNN) implementation using a synthetic dataset. This project help the user be thorough with the basics of keras and neural networks and how to build a neural network & interpret the results.
 
